@@ -36,5 +36,6 @@ public class AppTest
         assertTrue( true );
         System.out.println("yes tested");
         System.out.println("yes twice");
+        System.out.println("yes git");
     }
 }
